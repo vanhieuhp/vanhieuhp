@@ -12,6 +12,7 @@ Hi, I'm Hieu — a Fullstack Software Engineer with 3 years of experience buildi
 - **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch
 - **Messaging & Sync:** RabbitMQ, Monstache
 - **DevOps & Deployment:** Docker, Kubernetes, Jenkins, CI/CD, AWS Cloud
+- **Others**: Keycloak, N8N, Velocity, Jasper Report
 
 ### 🧑‍🎨 Frontend
 - **Languages:** JavaScript
@@ -19,7 +20,7 @@ Hi, I'm Hieu — a Fullstack Software Engineer with 3 years of experience buildi
 - **Tools:** REST API, gRPC, Webpack, Axios
 
 ### 🧰 Others
-- Git, Jira, Keycloak, JasperReports, N8N, Velocity
+- Git, Jira,.. 
 
 ## 📜 Certifications & Education
 
