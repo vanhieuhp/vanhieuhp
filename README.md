@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👨‍💻 Nguyen Van Hieu — Fullstack Software Engineer (Java + React)
 
-<!--
-**vanhieuhp/vanhieuhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hieu — a Fullstack Software Engineer with 3 years of experience building scalable and maintainable web applications. I specialize in **Java Spring Boot** for backend systems and **React** for modern, responsive frontends. With strong DevOps knowledge and cloud deployment skills, I deliver end-to-end solutions that are both robust and efficient.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 Backend
+- **Languages:** Java, Golang, Python
+- **Frameworks:** Spring Boot (Microservices Architecture)
+- **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch
+- **Messaging & Sync:** RabbitMQ, Monstache
+- **DevOps & Deployment:** Docker, Kubernetes, Jenkins, CI/CD, AWS Cloud
+
+### 🧑‍🎨 Frontend
+- **Languages:** JavaScript
+- **Library:** React
+- **Tools:** REST API, gRPC, Webpack, Axios
+
+### 🧰 Others
+- Git, Jira, Keycloak, JasperReports, N8N, Velocity
+
+## 📜 Certifications & Education
+
+**🎓 B.Sc. in Software Engineering**  
+*National Economics University, Hanoi (2020–2024)*  
+GPA: 3.44
+
+**📄 Certifications:**
+- MongoDB Learning Path Certificate
+- DevOps for Freshers
+- IELTS 6.0 (IDP Certified)
+
+---
+
+## 🔗 Let's Connect
+
+- 📧 **Email:** vanhieuit10@gmail.com
+- ☎️ **Phone:** +84 969 087 705
+- 🔗 **LinkedIn:** [linkedin.com/in/hieunguyenvan10](https://www.linkedin.com/in/hieunguyenvan10/)
+---
+
+> I thrive on solving challenging problems, exploring new technologies, and continuously improving both frontend and backend capabilities. Feel free to check out my projects or reach out to collaborate!
