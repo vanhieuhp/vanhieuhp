@@ -18,7 +18,7 @@ Hi, I'm Hieu — a Fullstack Software Engineer with 3 years of experience buildi
 - **Library:** React
 - **Tools:** REST API, gRPC, Webpack, Axios
 
-### Devops
+### ⚙ Devops
 - **DevOps & Deployment:** Docker, Kubernetes, Jenkins, CI/CD, AWS Cloud
 
 ### 🧰 Others
@@ -34,6 +34,7 @@ GPA: 3.44
 - MongoDB Learning Path Certificate
 - DevOps for Freshers
 - IELTS 6.0 (IDP Certified)
+- Kubernetes in Practice for Enterprise
 
 ---
 
