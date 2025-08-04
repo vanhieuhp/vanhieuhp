@@ -1,4 +1,4 @@
-# 👨‍💻 Nguyen Van Hieu — Fullstack Software Engineer (Java + React + Devops)
+# 👨‍💻 Nguyen Van Hieu — Java Backend Engineer
 
 Hi, I'm Hieu — a Fullstack Software Engineer with 3 years of experience building scalable and maintainable web applications. I specialize in **Java Spring Boot** for backend systems and **React** for modern, responsive frontends. With strong **DevOps** knowledge and cloud deployment skills, I deliver end-to-end solutions that are both robust and efficient.
 
