@@ -1,48 +1,34 @@
-# 👨‍💻 Nguyen Van Hieu — Java Backend Engineer
+# Nguyen Van Hieu
 
-Hi, I'm Hieu — a Java Backend Engineer with over 4 years of experience building scalable and maintainable web applications. I specialize in **Java Spring Boot** for backend systems and **React** for modern, responsive frontends. With strong **DevOps** knowledge and cloud deployment skills, I deliver end-to-end solutions that are both robust and efficient.
+Backend Engineer | Fintech & Applied AI
 
----
+I build backend systems for e-wallets and enterprise payments with Java and Spring Boot, and I build GenAI applications with Python. I have 5+ years of experience.
 
-## 🚀 Tech Stack
+## What I work on
 
-### 💻 Backend
-- **Languages:** Java, Golang, Python
-- **Frameworks:** Spring Boot (Microservices Architecture)
-- **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch
-- **Messaging & Sync:** RabbitMQ, Monstache
-- **Others**: Keycloak, N8N, Velocity, Jasper Report
+- **Fintech:** enterprise wallets, bank integration, maker-checker approval, and customer risk screening (blacklist, PEP, sanctions)
+- **Reliable backends:** Kafka, transactional outbox, idempotent status updates, and multi-instance deployment
+- **Applied AI:** a GenAI image and video platform with FastAPI and async workers, plus hands-on LLM agents and RAG
+- **AI-assisted engineering:** orchestrating coding agents for spec, build, and review
 
-### 🧑‍🎨 Frontend
-- **Languages:** JavaScript
-- **Library:** React
-- **Tools:** REST API, gRPC, Webpack, Axios
+## Tech stack
 
-### ⚙ Devops
-- **DevOps & Deployment:** Docker, Kubernetes, Jenkins, CI/CD, AWS Cloud
+| Area | Tools |
+|---|---|
+| Languages | Java, Python, Go, JavaScript, Bash |
+| Backend | Spring Boot, FastAPI, gRPC, microservices |
+| AI | OpenAI Agents SDK, LangGraph, CrewAI, MCP, RAG, ML fundamentals |
+| Data | PostgreSQL, Oracle, MySQL, MongoDB, Redis, Elasticsearch |
+| Messaging | Kafka, RabbitMQ, AWS SQS |
+| DevOps | Docker, Kubernetes, Helm, Jenkins, AWS |
+| Frontend | React |
 
-### 🧰 Others
-- Git, Jira,.. 
+## Education and certificates
 
-## 📜 Certifications & Education
+- B.Sc. in Software Engineering, National Economics University, Hanoi (2020-2024), GPA 3.44
+- MongoDB Learning Path, DevOps for Freshers, Kubernetes in Practice for Enterprise, IELTS 6.0
 
-**🎓 B.Sc. in Software Engineering**  
-*National Economics University, Hanoi (2020–2024)*  
-GPA: 3.44
+## Contact
 
-**📄 Certifications:**
-- MongoDB Learning Path Certificate
-- DevOps for Freshers
-- IELTS 6.0 (IDP Certified)
-- Kubernetes in Practice for Enterprise
-
----
-
-## 🔗 Let's Connect
-
-- 📧 **Email:** vanhieuit10@gmail.com
-- ☎️ **Phone:** +84 969 087 705
-- 🔗 **LinkedIn:** [linkedin.com/in/hieunguyenvan10](https://www.linkedin.com/in/hieunguyenvan10/)
----
-
-> I thrive on solving challenging problems, exploring new technologies, and continuously improving both frontend and backend capabilities. Feel free to check out my projects or reach out to collaborate!
+- Email: vanhieuit10@gmail.com
+- LinkedIn: [linkedin.com/in/hieunguyenvan10](https://linkedin.com/in/hieunguyenvan10)
